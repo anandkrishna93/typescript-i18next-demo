@@ -1,0 +1,14 @@
+{
+    "fallbackLng": "en",
+    "debug": false,
+    "ns": ["special", "common"],
+    "defaultNS": "special",
+    "backend": {
+        "loadPath": "/src/locales/{{lng}}/{{ns}}.json",
+        "crossDomain": true
+    },
+    "detection": {
+        "order": ["navigator", "cookie", "localStorage", "sessionStorage", "htmlTag", "path", "subdomain"],
+        "caches": ["localStorage", "cookie"]
+    }
+}

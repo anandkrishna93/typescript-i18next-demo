@@ -1,0 +1,10 @@
+{
+  "button": {
+    "save": "Sauvegarder",
+    "cancel": "Annuler",
+    "delete": "Effacer",
+    "submit": "Soumettre"
+  },
+  "Price": "{{ value, PRICE, CHF }}",
+  "Number": "{{ value, NUMBER }}"
+}

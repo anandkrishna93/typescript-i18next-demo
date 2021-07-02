@@ -1,0 +1,10 @@
+{
+  "button": {
+    "save": "Spara",
+    "cancel": "Avbryt",
+    "delete": "Radera",
+    "submit": "Skicka in"
+  },
+  "Price": "{{ value, PRICE, SEK }}",
+  "Number": "{{ value, NUMBER }}"
+}

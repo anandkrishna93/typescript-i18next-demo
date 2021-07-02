@@ -1,0 +1,10 @@
+{
+  "button": {
+    "save": "Salva",
+    "cancel": "Annulla",
+    "delete": "Elimina",
+    "submit": "Invia"
+  },
+  "Price": "{{ value, PRICE, EUR }}",
+  "Number": "{{ value, NUMBER }}"
+}

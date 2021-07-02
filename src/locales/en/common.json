@@ -1,0 +1,10 @@
+{
+  "button": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "submit": "Submit"
+  },
+  "Price": "{{ value, PRICE, USD }}",
+  "Number": "{{ value, NUMBER }}"
+}
